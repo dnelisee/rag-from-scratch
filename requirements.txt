@@ -1,0 +1,6 @@
+# Dépendances potentielles pour un projet RAG minimal
+transformers>=4.0.0
+sentence-transformers>=2.0.0
+faiss-cpu
+langchain
+flask

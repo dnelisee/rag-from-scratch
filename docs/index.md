@@ -11,5 +11,6 @@ Bienvenue — ce site présente le projet, les objectifs et le journal d'apprent
 Ce projet a pour but d'implémenter un pipeline RAG minimal, d'expliquer les choix et de documenter l'apprentissage.
 
 ## Contenu
+
 - Tutoriels et notes : [Journal d'apprentissage](../notes/learning.md)
 - Code : répertoire racine
